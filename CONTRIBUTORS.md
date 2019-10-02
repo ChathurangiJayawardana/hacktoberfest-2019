@@ -48,6 +48,11 @@
 - Bio: CS major and FRC alumnus
 - GitHub: [Joseph Reed](https://github.com/josephreed2600)
 
+### Name: [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
+- Place: SriLanka
+- Bio: Undergratuate, Studying Information Technology
+- GitHub: [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
+
 #### Name: [Emily Colón](https://github.com/emilycolon)
 - Place: Connecticut, USA
 - Bio: A mom and a coder
